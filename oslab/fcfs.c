@@ -1,4 +1,4 @@
-* Name Of the Candidate: K Ajay kumar
+/* Name Of the Candidate: K Ajay kumar
    Roll No: 204G1A0507
    Title of the Experiment: CPU Scheduling Using FCFS Algorithm
    Date of Creation: 30-08-2022
