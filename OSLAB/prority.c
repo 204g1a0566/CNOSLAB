@@ -2,7 +2,9 @@
    Roll No: 204G1A0507
    Title of the Experiment: CPU Scheduling Using priority Algorithm
    Date of Creation: 06-09-2022*/
-   #include<stdio.h>
+
+
+#include<stdio.h>
 main()
 
 {
@@ -13,8 +15,8 @@ printf("Enter the number of processes --- ");
 scanf("%d",&n);
 for(i=0;i<n;i++){
 p[i] = i;
-printf("Enter the Burst Time & Priority of Process %d --- ",i);
-scanf("%d %d",&bt[i], &pri[i]);
+printf("Enter the Burst Time & Priority of Process %d --- ",i); scanf("%d
+%d",&bt[i], &pri[i]);
 }
 for(i=0;i<n;i++)
 for(k=i+1;k<n;k++)
